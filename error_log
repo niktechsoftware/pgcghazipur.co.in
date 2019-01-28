@@ -1,0 +1,5 @@
+[23-Jun-2018 02:26:24 Etc/GMT] PHP Fatal error:  Call to a member function segment() on a non-object in /home/gfincpnt/public_html/pgcghazipur.co.in/application/views/department.php on line 320
+[23-Jun-2018 02:28:17 Etc/GMT] PHP Fatal error:  Call to a member function segment() on a non-object in /home/gfincpnt/public_html/pgcghazipur.co.in/application/views/department.php on line 320
+[23-Jun-2018 02:28:55 Etc/GMT] PHP Fatal error:  Call to a member function segment() on a non-object in /home/gfincpnt/public_html/pgcghazipur.co.in/application/views/department.php on line 320
+[23-Jun-2018 02:30:12 Etc/GMT] PHP Fatal error:  Call to a member function segment() on a non-object in /home/gfincpnt/public_html/pgcghazipur.co.in/application/views/department.php on line 320
+[22-Dec-2018 02:32:28 Etc/GMT] PHP Fatal error:  Call to a member function get() on a non-object in /home/gfincpnt/public_html/pgcghazipur.co.in/application/views/welcome_message.php on line 350
